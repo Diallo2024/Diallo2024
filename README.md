@@ -2,7 +2,7 @@
 Consultant at <a href="https://www.cgi.com">CGI</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   
 ## Hi there, Im Oury! <h2><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>👋🇸🇳
-![perfil1](https://github.com/user-attachments/assets/51d4d2ca-f8e7-42b9-9155-0a74d2160390) A little more about me . . .
+ A little more about me . . .
 
 ```
 Javascript
